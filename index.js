@@ -1,7 +1,7 @@
 // Import Classes Here
 
 const Cart = require('./classes/Cart');
-
+const Customer = require('./classes/Customer');
 
 
 
